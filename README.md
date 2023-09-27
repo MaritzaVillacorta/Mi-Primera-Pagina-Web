@@ -1,4 +1,3 @@
-# Mi-Primera-Pagina-Web
 <!DOCTYPE html>
 <html>
     <head>
@@ -7,7 +6,7 @@
     </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Pagina Web</h1>
+        <h1>Spa</h1>
     </header>
     <nav>
         <ul>
@@ -27,6 +26,12 @@
             <ul>
                 <li>Servicio 1</li>
                 <li>Servicio 2</li>
+                <li>Servicio 3</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
                 <li>Servicio 3</li>
             </ul>
         </section>
