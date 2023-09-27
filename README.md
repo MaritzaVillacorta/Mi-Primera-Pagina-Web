@@ -15,9 +15,8 @@
             <li><a href="#">Servicios</a></li>
             <li><a href="#">Contacto</a></li>
         </ul>
-    </nav>
-    
-    <main>
+    </nav> 
+  <main>
         <section>
             <h2>Acerca de Nosotros</h2>
             <p>Somos una empresa dedicada a la belleza</p>
@@ -32,7 +31,6 @@
             </ul>
         </section>
     </main>
-    
     <footer>
         <p>&copy; 2023 Mi Pagina Web</p>
     </footer>
