@@ -1,10 +1,10 @@
 # Mi-Primera-Pagina-Web
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Spa</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <title>Spa</title>
+    </head>
 <body>
     <header>
         <h1>Bienvenido a Mi Pagina Web</h1>
